@@ -1,2 +1,1 @@
-# Clinic-Management-System
-ClinicPro Hospital Management System.
+# dummy-repo
